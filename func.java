@@ -1,4 +1,4 @@
-//code for lecture number 6 -functions and methods
+//code for lecture number six methods and functions 
  import java.util.Scanner;
 public class functions6{
 
