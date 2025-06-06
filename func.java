@@ -72,7 +72,7 @@ public class functions6{
 
     // swap(a,b);   //the copy of a=5 and b=10 is passed to swap function
 
-    //  System.out.println("a is:"+a);    //when the value of a and b return to main function to get print original values of a and b gets printed that is 5 and 10 bcz java calls by value
+    //  System.out.println("a is:"+a);   
 
     //  System.out.println("b is:"+b);
 
