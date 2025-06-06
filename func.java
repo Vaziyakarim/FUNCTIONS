@@ -11,6 +11,10 @@ public class functions6{
 	 //     System.out.println("hello world");
 	 //     System.out.println("hello world");
  //     System.out.println("hello world");
+ System.out.println("hello world");
+ System.out.println("hello world");
+ System.out.println("hello world");
+ System.out.println("hello world");
 
     //
     // }
@@ -66,8 +70,8 @@ public class functions6{
     // public static void main(String[] args) {
     // Scanner sc =new Scanner(System.in);
     // //swaps
-    // int a=5;
-    // int b=10;
+    // int a=12;
+    // int b=17;
 
 
     // swap(a,b);   //the copy of a=5 and b=10 is passed to swap function
@@ -387,8 +391,11 @@ public class functions6{
 //       int b =sc.nextInt();
 //             System.out.println("enter c:");
 //       int c =sc.nextInt();
-//     int avg=avgofthreenum(a,b,c);
-//     System.out.println("the avg of three numbers is:" + avg);
+//        System.out.println("enter d:");
+//       int d =sc.nextInt();
+
+//     int avg=avgoffournum(a,b,c,d);
+//     System.out.println("the avg of four numbers is:" + avg);
 
 
 
@@ -407,9 +414,9 @@ public class functions6{
 //       System.out.println("enter n:");
 //       int n =sc.nextInt();
 //     if(isEven(n)){
-//         System.out.println("number is even");
+//         System.out.println("even number");
 //     }else{
-//         System.out.println("number is odd.");
+//         System.out.println("odd number.");
    // }
 
 
